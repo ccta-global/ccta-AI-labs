@@ -1,0 +1,7 @@
+groq
+flask
+python-dotenv
+httpx
+fastapi
+python-multipart
+gunicorn
